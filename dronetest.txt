@@ -1,1 +1,1 @@
-This is a test for Drone CI.
+This is a test for Drone CI. Test #2 now.
